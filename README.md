@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**makbulut42/makbulut42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there I'm Makbulut 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=makbulut42&theme=onedark_duo)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makbulut42&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makbulut42&langs_count=8&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/makbulut42/makbulut42"><img src="https://badge.mediaplus.ma/water/makbulut?1337Badge=off&UM6P=off" alt="makbulut's 42 stats" /></a>
+
