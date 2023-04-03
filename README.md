@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on 42's Projects.
 - 🌱 I'm currently using nodejs technologies. I'm developing an application with the Nestjs framework. I'm a backend developer of a group of projects, pong game, and I'm using it here too.
-- 👯 I’m looking to collaborate on machine learnin projects.
+- 👯 I’m looking to collaborate on machine learnin and web projects.
 - 💬 You can ask me about many things.
 
 <h2 align="center"> 📈 Stats </h2>
