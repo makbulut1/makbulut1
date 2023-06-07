@@ -13,7 +13,7 @@
   <a href="https://medium.com/@makbulut" target="blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium makbulut" />
   </a>
-  <a href="https://dev.to/makbulut42" target="blank">
+  <a href="https://dev.to/makbulut1" target="blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devtomakbulut"/>
   </a>
   <a href="https://twitter.com/eren0akb" target="blank">
@@ -34,9 +34,9 @@
 <h2 align="center"> 📈 Stats </h2>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=makbulut42&theme=onedark_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=makbulut1&theme=onedark_duo)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makbulut42&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makbulut1&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makbulut42&langs_count=8&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makbulut1&langs_count=8&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
