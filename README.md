@@ -2,7 +2,7 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <h3 align="center"> I am a learner of Ecole 42</h3>
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbuqrq2w00060fl9mkqi02h9/stats?cursusId=21&coalitionId=230" alt="makbulut's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbuqrq2w00060fl9mkqi02h9/stats?cursusId=21&coalitionId=364" alt="makbulut's 42 stats" /></a>
 </p>
 
 <p align="center">
