@@ -24,7 +24,7 @@
 </p>
 
 <h2 align="center"> Technologies</h2>
-<p align="left">
+<p align="center">
 	<image src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80" height="90">
 	<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="70" height="80">
 	<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="70" height="80">
