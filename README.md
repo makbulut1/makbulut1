@@ -1,9 +1,5 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<h3 align="center"> I am a learner of Ecole 42</h3>
-<p align="center">
-		<img src="https://badge42.vercel.app/api/v2/clbuqrq2w00060fl9mkqi02h9/stats?cursusId=21&coalitionId=364" alt="makbulut's 42 stats" />
-</p>
-
+<h3 align="center"> Ecole 42 Member & Cloud Engineer at AWS Partner Skyloop Cloud </h3>
 <p align="center">
   <a href="https://linkedin.com/in/mehmet-eren-akbulut-348177226/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinmakbulut" />
@@ -25,6 +21,7 @@
 
 <h2 align="center"> Technologies</h2>
 <p align="center">
+	<image src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png" width="80" height="90">
 	<image src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80" height="90">
 	<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="70" height="80">
 	<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="70" height="80">
