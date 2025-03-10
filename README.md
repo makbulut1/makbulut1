@@ -10,8 +10,8 @@
   <a href="https://dev.to/makbulut1" target="blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devtomakbulut"/>
   </a>
-  <a href="https://twitter.com/eren0akb" target="blank">
-    <img src="https://img.shields.io/twitter/follow/eren0akb_?logo=twitter&style=for-the-badge" alt="twittermakbulut" />
+  <a href="https://twitter.com/makbulutx" target="blank">
+    <img src="https://img.shields.io/twitter/follow/makbulutx?logo=twitter&style=for-the-badge" alt="twittermakbulut" />
   </a>
   <a href="https://stackoverflow.com/users/19746843/makbulut" target="blank">
     <img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflowmakbulut" />
